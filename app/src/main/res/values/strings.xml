@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="hint_gender">Gender</string>
+    <string name="text_btn_send">send</string>
+</resources>
